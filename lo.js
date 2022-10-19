@@ -5,7 +5,7 @@ const GWK = {
     color: 'emerald and copper green',
    isTourist: true,
     funFacts:[
-        'dedicated to the Hindu God of Vishnu anf his mount, the mythical bird',
+        'dedicated to the Hindu God of Vishnu and his mount, the mythical bird',
         'was completed in August 2018',
         'The landmark of Bali',
         'Taller than the statue of liberty',

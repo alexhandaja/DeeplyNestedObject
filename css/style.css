@@ -1,0 +1,22 @@
+.button {
+    background-color: #ffffff; /* Green */
+    border: 10;
+    color: rgb(0, 0, 0);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button1 {border-radius: 15px;}
+
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 49%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
