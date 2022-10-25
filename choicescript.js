@@ -77,3 +77,6 @@ var form = document.querySelector('#choices');
 
 form.addEventListener('submit', handle_submission);
 
+//inspiration https://github.com/danilane1821/MASH-game
+
+
